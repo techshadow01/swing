@@ -1,5 +1,5 @@
 {
-  "name": "fund_web",
+  "name": "swing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,14 +9,36 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.2.15",
-    "next-auth": "^4.24.8",
-    "react": "^18",
-    "react-dom": "^18"
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@lottiefiles/dotlottie-react": "^0.11.1",
+    "@mui/icons-material": "^6.3.1",
+    "@mui/joy": "^5.0.0-beta.48",
+    "@mui/material": "^6.3.1",
+    "@tabler/icons-react": "^3.26.0",
+    "axios": "^1.12.0",
+    "clsx": "^2.1.1",
+    "embla-carousel-autoplay": "^8.5.2",
+    "embla-carousel-react": "^8.5.2",
+    "formidable": "^3.5.4",
+    "framer-motion": "^11.18.2",
+    "mongoose": "^8.9.2",
+    "motion": "^11.13.1",
+    "next": "15.0.3",
+    "next-auth": "^4.24.11",
+    "next-cloudinary": "^6.16.0",
+    "razorpay": "^2.9.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^5.4.0",
+    "react-slick": "^0.30.3",
+    "react-toastify": "^11.0.3",
+    "slick-carousel": "^1.8.1",
+    "tailwind-merge": "^2.5.5"
   },
   "devDependencies": {
     "eslint": "^8",
-    "eslint-config-next": "14.2.15",
+    "eslint-config-next": "15.0.3",
     "postcss": "^8",
     "tailwindcss": "^3.4.1"
   }
