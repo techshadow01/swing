@@ -1,12 +1,12 @@
 "use client";
 
 import React from "react";
-import Photo from "./assets/Photo.avif";
+import Photo from "./assets/photo.avif";
 import Image from "next/image";
-import Photo1 from "./assets/Photo2.avif";
-import Photo2 from "./assets/Photo3.avif";
-import Photo3 from "./assets/Photo4.avif";
-import Photo4 from "./assets/Photo5.avif";
+import Photo1 from "./assets/photo2.avif";
+import Photo2 from "./assets/photo3.avif";
+import Photo3 from "./assets/photo4.avif";
+import Photo4 from "./assets/photo5.avif";
 import AnimatedTestimonials from "../components/testimonial";
 import Heart from "./assets/heart.svg";
 import { motion } from "framer-motion";
@@ -69,3 +69,4 @@ const about = () => {
 };
 
 export default about;
+
